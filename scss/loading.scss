@@ -1,0 +1,18 @@
+@import '../../tokens/colors';
+
+.loading {
+
+  width: 100vw;
+  height: 100vh;
+
+  position: absolute;
+  top: 0;
+
+  background-color: $brand__primaryColor;
+
+  &--disappear {
+    opacity: 0;
+    height: 0;
+    z-index: -1;
+  }
+}
