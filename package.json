@@ -1,0 +1,19 @@
+{
+  "name": "@codeinc.mx/loading-component",
+  "version": "1.0.0",
+  "description": "A simple loading for web projects by Sandro E. Martínez from Code Inc MX",
+  "main": "scss/loading.scss",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandro-E-Martinez/loading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandro-E-Martinez/loading/issues"
+  },
+  "homepage": "https://github.com/Sandro-E-Martinez/loading#readme"
+}
