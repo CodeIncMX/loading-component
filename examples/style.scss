@@ -1,0 +1,12 @@
+@import '../scss/loading-component.scss';
+
+// @include empty-loading(
+//   $background__color: red,
+//   $class__name: 'empty-loading'
+// );
+
+@include empty-loading();
+
+body {
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+@mixin empty-loading(
+  $class__name: 'empty-loading',
+  $background__color: blue
+) {
+
+  .#{$class__name} {
+    width: 100vw;
+    height: 100vh;
+
+    position: absolute;
+    top: 0;
+
+    background-color: $background__color;
+  }
+}
